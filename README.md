@@ -1,2 +1,2 @@
 # Evolis3d.github.io
- website para la escuela
+Website simple de la escuela con recursos
